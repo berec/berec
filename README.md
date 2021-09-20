@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berec
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning C#
-- 💞️ I’m not looking to collaborate 
+- 💞️ I'm not looking for cooperation
 - 📫 How to reach me  - here
 
 <!---
